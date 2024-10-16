@@ -2,12 +2,22 @@
 This is a Beauty-and-Spa-Responsive Website. I am make Following Section in this Website.
 
 **Home**
-**About Us**
-**Contact Us**
+
+**Services**
+
+**About**
+
+**Team**
+
+**Gallery**
+
+**Pricing**
+
+**Contact**
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/Coming-Soon-Website/
+**Live Demo** - https://codecraft-beta.github.io/Beauty-and-Spa-Responsive/
 
 **Website Video** - Coming Soon
 
