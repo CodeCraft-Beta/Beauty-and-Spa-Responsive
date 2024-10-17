@@ -19,7 +19,7 @@ Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/Beauty-and-Spa-Responsive/
 
-**Website Video** - Coming Soon
+**Website Video** - https://youtu.be/uv9mjasTcyc
 
 # CodeCraft-Beta
 
