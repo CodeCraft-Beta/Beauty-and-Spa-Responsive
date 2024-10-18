@@ -52,8 +52,3 @@ Thankyou.
 Hello Everyone, My name is Abdullah Zaheer. I am making this Website Template. You can Download it here or also on my Website.
 
 I am a Developer based in Multan, Pakistan. I am a Computer Science Undergraduate from Emerson University Multan. I am very passionate about improving my coding skills developing websites. I build WebApps and Websites using HTML, CSS, JS. Working for myself to improve my skills. Love to build Web clones.
-
-
-# Output - 1
-
- ![Home Image]("https://ibb.co/LY2y7L1")
